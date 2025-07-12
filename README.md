@@ -19,6 +19,6 @@
   <a href = "mailto:italokvr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href= "https://www.linkedin.com/in/italo-costa-de-albuquerque-cruz-54b921248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/italokvr/italokvr/blob/output/github-contribution-grid-snake.svg)
+  <img alt="github-snake" src="https://raw.githubusercontent.com/italokvr/italokvr/output/github-snake.svg" />
   
 </div>
