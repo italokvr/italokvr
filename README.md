@@ -1,24 +1,20 @@
-## Olá! Me chamo Italo Costa
-<div align="center">
-  <a href="https://github.com/italokvr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italokvr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italokvr&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
-  
-<div>
-  
-  <a href = "mailto:italokvr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href= "https://www.linkedin.com/in/italo-costa-de-albuquerque-cruz-54b921248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  <img alt="github-snake" src="https://raw.githubusercontent.com/italokvr/italokvr/output/github-snake.svg" />
-  
+<h1 align="center">Hello World! I'm Italo, a Brazillian Developer👋:.</h1>
+
+🧑‍🎓 Studying **OOP - Object Oriented Programming**
+
+# 💫 About Me:
+
+Hi there! 👋 I'm a friendly problem solver who loves tackling challenges head-on. Whether it's coding, algorithms, or life itself, I’m always eager to find efficient solutions. I have a deep passion for chess, where strategy and patience reign supreme, and I apply that same mindset to everything I do. My ultimate goal is to be the best in my field, continuously learning, improving, and pushing the boundaries of what I can achieve. Let’s connect and build something amazing together! 🚀
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/italoalbq_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/italokvr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:italokvr@gmail.com) 
+    
+# 📊 GitHub Stats:
+  ![](https://github-readme-stats.vercel.app/api?username=italokvr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=italokvr&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+  <img alt="github-snake" src="https://raw.githubusercontent.com/italokvr/italokvr/output/github-snake-dark.svg" />
 </div>
